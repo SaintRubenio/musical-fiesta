@@ -15,8 +15,7 @@ public class Musica {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //estos son cambios
-        int notas;
+        //ya no existen notas
         String pentagrama;
     }
     
